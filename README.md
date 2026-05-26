@@ -20,3 +20,6 @@ features into glass features conditioned on the multi-modal illumination discrep
 features. Extensive experiments demonstrate that our method outperforms state-of-the-art
 methods in nighttime scenes while generalizing well to daytime scenes. We will release our
 dataset and codes.
+
+## Pretrain Model And Dateset
+You can download in [Baidu Clound](https://pan.baidu.com/s/1F9HXIyh_q6gLXklMQ8F5OA?pwd=478c).
