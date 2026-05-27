@@ -22,9 +22,8 @@ methods in nighttime scenes while generalizing well to daytime scenes. Our datas
 are available at https://github.com/YT3DVision/NGSDNet.
 
 ## Pretrain Model And Dateset
+Pretrain Model: https://mega.nz/folder/d7h2WZzR#AxxK_pvSm6mjnLqNsVdXBQ
 
-### Pretrain Model: https://mega.nz/folder/d7h2WZzR#AxxK_pvSm6mjnLqNsVdXBQ
+Dataset: https://mega.nz/folder/ZrYABIbZ#r6ezg-FP5xIDxtDkVakZQg
 
-###Dataset: https://mega.nz/folder/ZrYABIbZ#r6ezg-FP5xIDxtDkVakZQg
-
-###Baidu Cloud link: https://pan.baidu.com/s/1F9HXIyh_q6gLXklMQ8F5OA?pwd=478c
+Baidu Cloud link: https://pan.baidu.com/s/1F9HXIyh_q6gLXklMQ8F5OA?pwd=478c
