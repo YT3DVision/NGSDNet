@@ -1,5 +1,5 @@
 # When Glass Disappears at Night: A Novel NIR-RGB Multimodal Solution (TMLR2026)
-The first multi-modal network, NGSDNet, for nighttime glass surface detection.
+The first multi-modal network, named NGSDNet, for nighttime glass surface detection.
 
 ## Abstract
 Glass surface detection (GSD) has recently been attracting research interests. However,
@@ -22,4 +22,4 @@ methods in nighttime scenes while generalizing well to daytime scenes. Our datas
 are available at https://github.com/YT3DVision/NGSDNet.
 
 ## Pretrain Model And Dateset
-You can download in [Baidu Cloud](https://pan.baidu.com/s/1F9HXIyh_q6gLXklMQ8F5OA?pwd=478c).
+You can download the pretrain model and dataset from [Baidu Cloud](https://pan.baidu.com/s/1F9HXIyh_q6gLXklMQ8F5OA?pwd=478c).
