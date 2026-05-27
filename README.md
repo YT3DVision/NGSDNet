@@ -18,8 +18,8 @@ enriching the NIR reflectance features with the guidance of RGB reflectance feat
 an RGB-NIR Fusion and Localization (RNFL) module for fusing RGB and NIR reflectance
 features into glass features conditioned on the multi-modal illumination discrepancy-aware
 features. Extensive experiments demonstrate that our method outperforms state-of-the-art
-methods in nighttime scenes while generalizing well to daytime scenes. We will release our
-dataset and codes.
+methods in nighttime scenes while generalizing well to daytime scenes. Our dataset and code
+are available at https://github.com/YT3DVision/NGSDNet.
 
 ## Pretrain Model And Dateset
 You can download in [Baidu Cloud](https://pan.baidu.com/s/1F9HXIyh_q6gLXklMQ8F5OA?pwd=478c).
