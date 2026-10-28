@@ -23,6 +23,19 @@ features. Extensive experiments demonstrate that our method outperforms state-of
 methods in nighttime scenes while generalizing well to daytime scenes. Our dataset and code
 are available at https://github.com/YT3DVision/NGSDNet.
 
+## Proceeding
+
+@article{
+yan2026when,
+title={When Glass Disappears at Night: A Novel {NIR}-{RGB} Multimodal Solution},
+author={Tao Yan and Yiwei Lu and Ke Xu and Hao Chen and Hui Li and Xiaojun Chang and Xiaojun Wu and Rynson W. H. Lau},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=hdh3vHsakv},
+note={}
+}
+
 ## Pretrain Model And Dateset
 Pretrain Model: https://mega.nz/folder/d7h2WZzR#AxxK_pvSm6mjnLqNsVdXBQ
 
