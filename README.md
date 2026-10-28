@@ -28,11 +28,17 @@ are available at https://github.com/YT3DVision/NGSDNet.
 @article{
 yan2026when,
 title={When Glass Disappears at Night: A Novel {NIR}-{RGB} Multimodal Solution},
+
 author={Tao Yan and Yiwei Lu and Ke Xu and Hao Chen and Hui Li and Xiaojun Chang and Xiaojun Wu and Rynson W. H. Lau},
+
 journal={Transactions on Machine Learning Research},
+
 issn={2835-8856},
+
 year={2026},
+
 url={https://openreview.net/forum?id=hdh3vHsakv},
+
 note={}
 }
 
