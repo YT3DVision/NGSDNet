@@ -24,7 +24,7 @@ methods in nighttime scenes while generalizing well to daytime scenes. Our datas
 are available at https://github.com/YT3DVision/NGSDNet.
 
 ## Proceeding
-Tao Yan, Yiwei Lu, Ke Xu, Hao Chen, Hui Li, Xiaojun Chang, Xiaojun Wu, Rynson W. H. Lau, "When Glass Disappears at Night: A Novel {NIR}-{RGB} Multimodal Solution", Transactions on Machine Learning Research, 2026, https://openreview.net/forum?id=hdh3vHsakv.
+Tao Yan, Yiwei Lu, Ke Xu, Hao Chen, Hui Li, Xiaojun Chang, Xiaojun Wu, Rynson W. H. Lau, "When Glass Disappears at Night: A Novel NIR-RGB Multimodal Solution", Transactions on Machine Learning Research, 2026, https://openreview.net/forum?id=hdh3vHsakv.
 
 ## Pretrain Model And Dateset
 Pretrain Model: https://mega.nz/folder/d7h2WZzR#AxxK_pvSm6mjnLqNsVdXBQ
